@@ -1,0 +1,63 @@
+# phpstorm project files
+.idea
+
+# netbeans project files
+nbproject
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+._*
+.DS_Store
+.AppleDouble
+.LSOverride
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+Icon
+
+# Linux
+*~
+.directory
+.Trash-*
+
+# CMake
+cmake-build-debug/
+
+# composer
+/vendor
+composer.phar
+composer.lock
+
+# PhpUnit
+/phpunit.phar
+/phpunit.xml
+/.phpunit.cache
+
+# PHP CS Fixer
+/.php-cs-fixer.cache
+/.php-cs-fixer.php
+
+# AI local settings
+/.claude
+
+# Dependency directory
+# https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
+node_modules
