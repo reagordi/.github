@@ -2,40 +2,12 @@
     <a href="https://github.com/reagordi" target="_blank">
         <img src="https://raw.githubusercontent.com/reagordi/.github/main/profile/logo.png" alt="Reagordi" height="100px">
     </a>
-    <h1 align="center">Reagordi _____</h1>
+    <h1 align="center">Reagordi Community Health Files</h1>
     <br>
 </p>
 
-[![Latest Stable Version](https://poser.pugx.org/reagordi/_____/v)](https://packagist.org/packages/reagordi/_____)
-[![Total Downloads](https://poser.pugx.org/reagordi/_____/downloads)](https://packagist.org/packages/reagordi/_____)
-[![Build status](https://github.com/reagordi/_____/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/reagordi/_____/actions/workflows/build.yml?query=branch%3Amaster)
-[![Code Coverage](https://codecov.io/gh/reagordi/_____/branch/master/graph/badge.svg)](https://codecov.io/gh/reagordi/_____)
-[![Mutation testing badge](https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fbadge-api.stryker-mutator.io%2Fgithub.com%2Freagordi%2F_____%2Fmaster)](https://dashboard.stryker-mutator.io/reports/github.com/reagordi/_____/master)
-[![Static analysis](https://github.com/reagordi/_____/actions/workflows/static.yml/badge.svg?branch=master)](https://github.com/reagordi/_____/actions/workflows/static.yml?query=branch%3Amaster)
-[![type-coverage](https://shepherd.dev/github/reagordi/_____/coverage.svg)](https://shepherd.dev/github/reagordi/_____)
-[![psalm-level](https://shepherd.dev/github/reagordi/_____/level.svg)](https://shepherd.dev/github/reagordi/_____)
 
-The package ...
-
-## Requirements
-
-- PHP 8.3 or higher.
-
-## Installation
-
-The package could be installed with [Composer](https://getcomposer.org):
-
-```shell
-composer require reagordi/_____
-```
-
-## General usage
-
-## Documentation
-
-- [Internals](docs/internals.md)
-
-If you need help or have a question, the [Forum](https://reagordi.com/forum) is a good place for that. 
+This repository contains the default [community health files](https://help.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file) for the [`reagordi`](https://github.com/reagordi) organization.
 
 ## License
 
